@@ -1,3 +1,5 @@
 git config --global alias.st status 
 git config --global alias.co commit
 git config --global alias.ch checkout  
+
+$ git log --oneline --graph
